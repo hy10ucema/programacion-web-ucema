@@ -1,2 +1,1 @@
-# programacion-web-ucema
-Curso de Programación Web
+# Curso de Programación Web UCEMA
